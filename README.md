@@ -1,0 +1,1 @@
+This repo provides a Perl script which uses [sox](http://sox.sourceforge.net/) and [Math::FFT](http://search.cpan.org/perldoc?Math::FFT) to draw an amplitude-per-frequency diagram of each 1/8th second of audio from the system's microphone and select what it thinks is the primary pitch of that 1/8th second slice.
